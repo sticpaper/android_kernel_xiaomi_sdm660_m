@@ -136,6 +136,10 @@ all.config
 # fetched Android config fragments
 kernel/configs/android-*.cfg
 
+# paper-extra kernel
+out
+kbuild.sh
+
 #
 #Ignoring Android.bp link file
 #
